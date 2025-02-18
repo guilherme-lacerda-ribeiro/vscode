@@ -17,17 +17,6 @@
 ## Documentação
 [Documentação oficial do Visual Studio Code na Microsoft](https://code.visualstudio.com/learn).
 
-# Melhorando a Produtividade com Extensões no VSCode
-
-Sempre que vamos trabalhar com um editor de código, procuramos formas de melhorar a produtividade em nosso projeto. Em alguns momentos, o editor fornece de forma nativa, ou seja, já vem embutida na própria ferramenta, uma solução para determinado problema. Porém, em outras ocasiões, é necessária a instalação de **extensões**.
-
-## Mas o que são extensões do VSCode?
-
-As extensões ajudam o VSCode a ficar mais alinhado com a sua necessidade de trabalho. Você pode adicionar novas funcionalidades, temas de cores e muito mais no [Marketplace de Extensões](https://marketplace.visualstudio.com/vscode).
-
-> **Dica: Atualização de extensões.**  
-> Para garantir o bom funcionamento das extensões, sempre verifique se estão atualizadas. Caso estejam descontinuadas, verifique a compatibilidade com sua versão do VSCode.
-
 ## Extensões úteis
 
 - [Live Share](https://learn.microsoft.com/pt-br/visualstudio/liveshare/use/install-live-share-visual-studio-code): Para codar em equipe de forma simultânea.
